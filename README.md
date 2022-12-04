@@ -33,8 +33,5 @@
 </p>
 
  <hr>
- <p align="center">
-<img src="https://komarev.com/ghpvc/?username=silvinarossatti-username&color=grey" alt="profile viewers badge" />
-</p>
- 
+
  Thanks for visiting! Let's follow each other on <b> <a href="https://github.com/silvinarossatti"> Github. </a> </b>
