@@ -2,8 +2,8 @@
 
 - 🛠 I'm working on the <b> Libft project. </b>
 - 🌱 I’m currently learning <b> Git, Shell, C, C++, HTML & CSS. </b>
-- 📚 I'm studying at <b> 42 Málaga. </b>
-- 😲 I'm interested to learn <b> SQL, Bootstrap, Sass, JavaScript, React, Python </b> <br>
+- 📚 I'm studying at <b> <a href="https://www.42malaga.com/"> 42 Málaga. </a> </b>
+- 😲 I'm interested to learn <b> SQL, Bootstrap, Sass, JavaScript, React, Python, UX/UI </b> <br>
 
 ### Languages & Tools
 <a href="https://git-scm.com/"><img src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" alt="Git logo" length="50px" width="50px"></a>
@@ -20,6 +20,10 @@
  </p>
 
  <hr>
+ 
+ ### What is 42?
+ 
+ Visit <a href="https://42.fr/en/homepage/"> 42's website </a> and learn more!
 
 <p align="center">
  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clb9bxn2000250fl43jzwa2z5/stats?cursusId=21&coalitionId=275" alt="srossatt's 42 stats" /></a>
