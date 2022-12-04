@@ -15,7 +15,7 @@
 <a href="https://www.w3schools.com/html/default.asp"><img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="HTML logo" length="40px" width="40px"></a>
 <a href="https://www.w3schools.com/css/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/250px-CSS3_logo.svg.png" alt="CSS logo" length="40px" width="40px"></a>
 <a href="https://www.adobe.com/es/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" alt="Photshop logo" length="40px" width="40px"></a>
-<a href="https://www.adobe.com/es/products/illustrator.html"><img src="https://assets.stickpng.com/images/62c5bf6f6aad5aedf80e3801.png" alt="Illustrator logo" length="40px" width="40px"></a>
+<a href="https://www.adobe.com/es/products/illustrator.html"><img src="https://1000marcas.net/wp-content/uploads/2021/06/Illustrator-Logo.png" alt="Illustrator logo" length="40px" width="40px"></a>
 <a href="https://www.vegascreativesoftware.com/es/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Vegas_Pro_19.svg/800px-Vegas_Pro_19.svg.png" alt="Sony Vegas logo" length="40px" width="40px"></a>
 
 
