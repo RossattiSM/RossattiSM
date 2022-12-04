@@ -31,5 +31,10 @@
 <p align="center">
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clb9bxn2000250fl43jzwa2z5/stats?cursusId=9&coalitionId=216" alt="srossatt's 42 stats" /></a>
 </p>
- 
 
+ <hr>
+ <p align="center">
+<img src="https://komarev.com/ghpvc/?username=your-github-username&color=grey" alt="profile viewers badge" />
+</p>
+ 
+ Thanks for visiting! Let's follow each other on <b> <a href="https://github.com/silvinarossatti"> Github. </a> </b>
