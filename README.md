@@ -20,8 +20,8 @@
  </p>
 
  <hr>
-<p align="center" size="15px">
-<b> Do you know what is 42? </b> Visit the <a href="https://42.fr/en/homepage/"> website </a> to learn!
+<p align="center">
+<b> Do you know what is 42? </b> Visit the <a href="https://42.fr/en/homepage/"> website </a> to learn about it!
 </p>
 
 <p align="center">
