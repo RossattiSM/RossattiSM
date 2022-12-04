@@ -10,26 +10,10 @@
  <a href="https://www.linkedin.com/in/silvinarossatti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
  
 ### Languages & Tools
-<a href="https://git-scm.com/"><img src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" alt="Git logo" length="40px" width="40px"></a>
-<a href="https://www.w3schools.com/c/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C logo" length="40px" width="40px"></a>
-<a href="https://www.w3schools.com/html/default.asp"><img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="HTML logo" length="40px" width="40px"></a>
-<a href="https://www.w3schools.com/css/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/250px-CSS3_logo.svg.png" alt="CSS logo" length="40px" width="40px"></a>
-<a href="https://www.adobe.com/es/products/photoshop.html"><img src="https://i.pinimg.com/originals/6d/2a/aa/6d2aaaf01f9e23a3d75d81d75c454a66.jpg" alt="Photshop logo" length="40px" width="40px"></a>
-<a href="https://www.adobe.com/es/products/illustrator.html"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/adobe_illustrator_logo_icon_170615.png" alt="Illustrator logo" length="40px" width="40px"></a>
-<a href="https://www.vegascreativesoftware.com/es/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" alt="Sony Vegas logo" length="40px" width="40px"></a>
-
-
-<!--
-**silvinarossatti/silvinarossatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://git-scm.com/"><img src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" alt="Git logo" length="50px" width="50px"></a>
+<a href="https://www.w3schools.com/c/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C logo" length="50px" width="50px"></a>
+<a href="https://www.w3schools.com/html/default.asp"><img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="HTML logo" length="50px" width="50px"></a>
+<a href="https://www.w3schools.com/css/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/250px-CSS3_logo.svg.png" alt="CSS logo" length="50px" width="50px"></a>
+<a href="https://www.adobe.com/es/products/photoshop.html"><img src="https://i.pinimg.com/originals/6d/2a/aa/6d2aaaf01f9e23a3d75d81d75c454a66.jpg" alt="Photshop logo" length="50px" width="50px"></a>
+<a href="https://www.adobe.com/es/products/illustrator.html"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/adobe_illustrator_logo_icon_170615.png" alt="Illustrator logo" length="50px" width="50px"></a>
+<a href="https://www.vegascreativesoftware.com/es/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" alt="Sony Vegas logo" length="50px" width="50px"></a>
