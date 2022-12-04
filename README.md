@@ -15,7 +15,7 @@
 <a href="https://www.vegascreativesoftware.com/es/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" alt="Sony Vegas logo" length="50px" width="50px"></a>
 
 <p align="center">
- <b> Let's Connect! </b> <br> <br>
+ <b> Let's Connect! </b> <br>
  <a href="https://www.linkedin.com/in/silvinarossatti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
  </p>
 
@@ -23,4 +23,9 @@
  
  <p align="center">
    <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clb9bxn2000250fl43jzwa2z5/stats?cursusId=9&coalitionId=piscine" alt="srossatt's 42 stats" /></a> <br>
+ 
+ <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clb9bxn2000250fl43jzwa2z5/stats?cursusId=21&coalitionId=275" alt="srossatt's 42 stats" /></a> <br>
+ 
+ <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clb9bxn2000250fl43jzwa2z5/project/2900026" alt="srossatt's 42 Libft Score" /></a>
+ 
   </p>
