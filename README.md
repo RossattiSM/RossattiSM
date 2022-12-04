@@ -8,7 +8,7 @@
 <p align="center">
  <u> Let's Connect! </u> <br>
  <a href="https://www.linkedin.com/in/silvinarossatti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
- 
+
 ### Languages & Tools
 <a href="https://git-scm.com/"><img src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" alt="Git logo" length="50px" width="50px"></a>
 <a href="https://www.w3schools.com/c/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C logo" length="50px" width="50px"></a>
@@ -17,3 +17,5 @@
 <a href="https://www.adobe.com/es/products/photoshop.html"><img src="https://i.pinimg.com/originals/6d/2a/aa/6d2aaaf01f9e23a3d75d81d75c454a66.jpg" alt="Photshop logo" length="50px" width="50px"></a>
 <a href="https://www.adobe.com/es/products/illustrator.html"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/adobe_illustrator_logo_icon_170615.png" alt="Illustrator logo" length="50px" width="50px"></a>
 <a href="https://www.vegascreativesoftware.com/es/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" alt="Sony Vegas logo" length="50px" width="50px"></a>
+
+ [![srossatt's 42 stats](https://badge42.vercel.app/api/v2/clb9bxn2000250fl43jzwa2z5/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
