@@ -15,7 +15,7 @@
 <a href="https://www.vegascreativesoftware.com/es/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" alt="Sony Vegas logo" length="50px" width="50px"></a>
 
 <p align="center">
- <u> Let's Connect! </u> <br>
+ <b> <i> Let's Connect! </i> </b> <br>
  <a href="https://www.linkedin.com/in/silvinarossatti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
  </p>
 
