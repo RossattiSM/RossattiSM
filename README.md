@@ -18,4 +18,8 @@
 <a href="https://www.adobe.com/es/products/illustrator.html"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/adobe_illustrator_logo_icon_170615.png" alt="Illustrator logo" length="50px" width="50px"></a>
 <a href="https://www.vegascreativesoftware.com/es/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" alt="Sony Vegas logo" length="50px" width="50px"></a>
 
- [![srossatt's 42 stats](https://badge42.vercel.app/api/v2/clb9bxn2000250fl43jzwa2z5/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+ <p align="center">
+  
+ <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clb9bxn2000250fl43jzwa2z5/stats?cursusId=9&coalitionId=piscine" alt="srossatt's 42 stats" /></a> <br>
+
+  </p>
