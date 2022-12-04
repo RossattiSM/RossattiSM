@@ -20,10 +20,9 @@
  </p>
 
  <hr>
- 
- ### What is 42?
- 
- Visit <a href="https://42.fr/en/homepage/"> 42's website </a> and learn more!
+<p align="center" size="15px">
+<b> Do you know what is 42? </b> Visit the <a href="https://42.fr/en/homepage/"> website </a> to learn!
+</p>
 
 <p align="center">
  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clb9bxn2000250fl43jzwa2z5/stats?cursusId=21&coalitionId=275" alt="srossatt's 42 stats" /></a>
