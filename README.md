@@ -34,4 +34,4 @@
 
  <hr>
 
- Thanks for visiting! Let's follow each other on <b> <a href="https://github.com/silvinarossatti"> Github. </a> </b>
+ ✨ Thanks for visiting! Let's follow each other on <b> <a href="https://github.com/silvinarossatti"> Github </a> </b> or connect via <b> <a href="https://www.linkedin.com/in/silvinarossatti/"> Linkedin. </b>
