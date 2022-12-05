@@ -19,12 +19,18 @@
  <a href="https://www.linkedin.com/in/silvinarossatti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
  </p>
 
- <hr>
+<hr>
 <p align="center">
-<b> Do you know what is 42? </b> Visit the <a href="https://42.fr/en/homepage/"> website </a> to learn about it! <br>
-
- <a href="https://42.fr/en/homepage/"><img src="https://repository-images.githubusercontent.com/237800104/dfc69080-46fb-11eb-9413-0f02ce8f5532" alt="42 School Banner" length="300px" width="200px" /></a>
+<a href="https://42.fr/en/homepage/"><img src="https://repository-images.githubusercontent.com/237800104/dfc69080-46fb-11eb-9413-0f02ce8f5532" alt="42 School Banner" length="500px" width="400px" /></a>
 </p>
+
+<p align="center">
+<b> Do you know what is 42? </b> Visit the <a href="https://42.fr/en/homepage/"> website </a> to learn about it!
+</p>
+
+
+ 
+
 
  <hr>
  
