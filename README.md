@@ -31,7 +31,7 @@
 <a href="https://es.reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React logo" /></a>
 <a href="https://www.python.org/downloads/"><img src="https://skillicons.dev/icons?i=py" alt="Python logo" /></a>
 
-## Let's Connect! ✔
+## Let's Connect! 
 
 <a href="https://www.linkedin.com/in/silvinarossatti/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Logo"></a>
 <a href="https://github.com/silvinarossatti"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" /></a>
