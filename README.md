@@ -24,7 +24,6 @@
 <b> Want to know about 42? </b> Visit the <a href="https://42.fr/en/homepage/"> website </a> !
 </p>
 
- <hr>
 <p align="center">
  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/srossatt?1337Badge=off&UM6P=off" alt="srossatt's 42 stats" /></a>
 </p> 
