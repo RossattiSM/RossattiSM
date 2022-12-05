@@ -32,9 +32,21 @@
 <p align="center">
  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/srossatt?1337Badge=off&UM6P=off" alt="srossatt's 42 stats" /></a>
 </p> 
- 
-[![Silvina's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=silvinarossatti&hide=stars,contribs,prs,issues,contribs&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Silvina's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=silvinarossatti&hide=contribs,prs,issues,contribs&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+<p align="center">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=silvinarossatti&show_icons=true&theme=dark#gh-dark-mode-only"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=silvinarossatti&show_icons=true&theme=default#gh-light-mode-only"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=silvinarossatti&show_icons=true" />
+</picture>
+ </p> 
+
 [![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=silvinarossatti&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/silvinarossatti/github-readme-stats#gh-dark-mode-only)
 [![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=silvinarossatti&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/silvinarossatti/github-readme-stats#gh-light-mode-only)
  
