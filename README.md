@@ -25,11 +25,11 @@
 </p>
 
 <p align="center">
-<b> Do you know 42? </b> Visit the <a href="https://42.fr/en/homepage/"> website </a> to learn about it!
+<b> Want to know about 42? </b> Visit the <a href="https://42.fr/en/homepage/"> website </a> !
 </p>
 
  <hr>
- ![Silvina's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvinarossatti_icons=true&theme=transparent) 
+ [![Silvina's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvinarossatti_icons=true&theme=transparent)]
  
  <hr>
  
