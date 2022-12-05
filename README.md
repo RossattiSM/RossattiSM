@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-<b> Do you know what is 42? </b> Visit the <a href="https://42.fr/en/homepage/"> website </a> to learn about it!
+<b> Do you know 42? </b> Visit the <a href="https://42.fr/en/homepage/"> website </a> to learn about it!
 </p>
 
 
