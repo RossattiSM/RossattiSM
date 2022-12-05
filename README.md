@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
- <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clb9bxn2000250fl43jzwa2z5/stats?cursusId=21&coalitionId=275" alt="srossatt's 42 stats" /></a>
+ <a href="https://42.fr/en/homepage/"><img src="https://repository-images.githubusercontent.com/237800104/dfc69080-46fb-11eb-9413-0f02ce8f5532" alt="42 School Banner" /></a>
 </p>
 
  <hr>
