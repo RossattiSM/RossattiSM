@@ -14,10 +14,10 @@
 <a href="https://www.adobe.com/es/products/illustrator.html"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/adobe_illustrator_logo_icon_170615.png" alt="Illustrator logo" length="50px" width="50px" /></a>
 <a href="https://www.vegascreativesoftware.com/es/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" alt="Sony Vegas logo" length="50px" width="50px" /></a>
 
-<p align="center">
+
  <b> Let's Connect! </b> <br>
  <a href="https://www.linkedin.com/in/silvinarossatti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
- </p>
+
 
 <hr>
 <p align="center">
