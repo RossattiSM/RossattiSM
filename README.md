@@ -28,13 +28,9 @@
 <b> Do you know 42? </b> Visit the <a href="https://42.fr/en/homepage/"> website </a> to learn about it!
 </p>
 
-
+ <hr>
+ ![Silvina's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvinarossatti_icons=true&theme=transparent) 
  
-
-
  <hr>
  
- [![Silvina's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvinarossatti)](https://github.com/silvinarossatti/github-readme-stats)
- 
- <hr>
  ✨ Thanks for visiting! Let's follow each other on <b> <a href="https://github.com/silvinarossatti"> Github </a> </b> or connect via <b> <a href="https://www.linkedin.com/in/silvinarossatti/"> Linkedin. </b>
