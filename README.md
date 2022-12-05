@@ -5,7 +5,7 @@
 - 📚 I'm studying at <b> <a href="https://www.42malaga.com/"> 42 Málaga. </a> </b>
 - 😲 I'm interested to learn <b> SQL, Bootstrap, Sass, JavaScript, React, Python, UX/UI </b> <br>
 
-### Languages & Tools
+#### Languages & Tools
 <a href="https://git-scm.com/"><img src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" alt="Git logo" length="50px" width="50px" /></a>
 <a href="https://www.w3schools.com/c/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C logo" length="50px" width="50px" /></a>
 <a href="https://www.w3schools.com/html/default.asp"><img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="HTML logo" length="50px" width="50px" /></a>
@@ -15,7 +15,7 @@
 <a href="https://www.vegascreativesoftware.com/es/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" alt="Sony Vegas logo" length="50px" width="50px" /></a>
 
 
- ### Let's Connect!
+ #### Let's Connect!
  <a href="https://www.linkedin.com/in/silvinarossatti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
 
 
