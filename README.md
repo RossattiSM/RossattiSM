@@ -29,6 +29,7 @@
 
 My user in Discord is <i> chibi#3927 </i>
 
+## I'm a 42 Cadet
 
 <hr>
 <p align="center">
