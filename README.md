@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Silvi
 
 - 🛠 I'm working on the <b> Libft project. </b>
-- 🌱 I’m currently learning <b> Git, Shell, C, C++, HTML & CSS. </b>
+- 🌱 I’m currently learning <b> Git, Shell, C, C++, HTML, CSS & JavaScript. </b>
 - 📚 I'm studying at <b> <a href="https://www.42malaga.com/"> 42 Málaga. </a> </b>
 - 😲 I'm interested to learn <b> SQL, Bootstrap, Sass, JavaScript, React, Python, UX/UI </b> <br>
 
@@ -12,12 +12,13 @@
 <a href="https://www.w3schools.com/html/default.asp"><img src="https://skillicons.dev/icons?i=html" alt="HTML logo" /></a>
 <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS logo" /></a>
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" /></a>
-<a href="https://www.adobe.com/es/products/photoshop.html"><img src="" alt="Photshop logo" length="50px" width="50px" /></a>
-<a href="https://www.adobe.com/es/products/illustrator.html"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/adobe_illustrator_logo_icon_170615.png" alt="Illustrator logo" length="50px" width="50px" /></a>
+<a href="https://www.adobe.com/es/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" alt="Photshop logo" length="50px" width="50px" /></a>
+<a href="https://www.adobe.com/es/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" alt="Illustrator logo" /></a>
 <a href="https://www.vegascreativesoftware.com/es/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" alt="Sony Vegas logo" length="50px" width="50px" /></a>
 
 ## Future Skills
 
+<a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript logo" /></a>
 
 
 ## Let's Connect!
