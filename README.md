@@ -7,7 +7,7 @@
 
 <p align="center">
  <b> Technologies </b> <br>
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=all" alt="Git logo" /></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git logo" /></a>
 <a href="https://www.w3schools.com/c/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C logo" length="50px" width="50px" /></a>
 <a href="https://www.w3schools.com/html/default.asp"><img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="HTML logo" length="50px" width="50px" /></a>
 <a href="https://www.w3schools.com/css/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/250px-CSS3_logo.svg.png" alt="CSS logo" length="50px" width="50px" /></a>
