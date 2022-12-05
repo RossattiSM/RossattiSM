@@ -29,10 +29,12 @@
 </p>
 
  <hr>
+<p align="center">
+ <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/srossatt?1337Badge=off&UM6P=off" alt="srossatt's 42 stats" /></a>
+</p> 
  
 [![Silvina's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=silvinarossatti&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Silvina's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=silvinarossatti&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![srossatt's 42 stats](https://badge.mediaplus.ma/black/srossatt?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
  
  <hr>
  
