@@ -23,9 +23,9 @@
 
 ## Future Skills
 
+<a href="https://www.learncpp.com/"><img src="https://skillicons.dev/icons?i=cpp" alt="Cpp logo" /></a>
 <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript logo" /></a>
 <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap logo" /></a>
-<a href="https://www.learncpp.com/"><img src="https://skillicons.dev/icons?i=cpp" alt="Cpp logo" /></a>
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL logo" /></a>
 <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=js" alt="Sass logo" /></a>
 <a href="https://es.reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React logo" /></a>
