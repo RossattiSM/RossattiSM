@@ -19,7 +19,7 @@
 <a href="https://about.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab logo" /></a>
 <a href="https://www.adobe.com/es/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" alt="Photshop logo" /></a>
 <a href="https://www.adobe.com/es/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" alt="Illustrator logo" /></a>
-<a href="https://www.vegascreativesoftware.com/es/"><img src="https://i.pinimg.com/originals/e2/f1/4f/e2f14fd81ae695ebae159a8b0ef53fcd.png" alt="Sony Vegas logo" length="50px" width="50px" /></a>
+<a href="https://www.vegascreativesoftware.com/es/"><img src="https://i.pinimg.com/originals/e2/f1/4f/e2f14fd81ae695ebae159a8b0ef53fcd.png" alt="Sony Vegas logo" length="47px" width="47px" /></a>
 
 ## Future Skills
 
