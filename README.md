@@ -43,7 +43,7 @@
 
 My user in Discord is <i> chibi#3927 </i>
 
-## 42 School
+## I'm a 42 Cadet...
 
 <b> <i> Want to know about 42? </i> </b> Click <a href="https://42.fr/en/homepage/"> here </a>!
 
