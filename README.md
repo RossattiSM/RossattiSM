@@ -23,15 +23,15 @@
 ## Let's Connect!
 
 <a href="https://www.linkedin.com/in/silvinarossatti/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Logo"></a>
- <a href="https://github.com/silvinarossatti"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" /></a>
- <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" alt="Discord logo" /></a>
- <a href="https://www.instagram.com/chibirossatti/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram logo" /></a>
+<a href="https://github.com/silvinarossatti"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" /></a>
+<a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" alt="Discord logo" /></a>
+<a href="https://www.instagram.com/chibirossatti/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram logo" /></a>
+<a href="https://www.facebook.com/silmaross"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook logo" /></a>
 
 My user in Discord is <i> chibi#3927 </i>
 
 ## I'm a 42 Cadet
 
-<hr>
 <p align="center">
 <b> Want to know about 42? </b> Visit the <a href="https://42.fr/en/homepage/"> website </a> !
 </p>
