@@ -1,24 +1,36 @@
 # Hi there 👋, I'm Silvi
 
 - 🛠 I'm working on the <b> Libft project. </b>
-- 🌱 I’m currently learning <b> Git, Shell, C, C++, HTML, CSS & JavaScript. </b>
+- 🌱 I’m currently learning <b> Linux, Git, Shell, C, C++, HTML, CSS & JavaScript. </b>
 - 📚 I'm studying at <b> <a href="https://www.42malaga.com/"> 42 Málaga. </a> </b>
 - 😲 I'm interested to learn <b> SQL, Bootstrap, Sass, React, Python, UX/UI </b> <br>
 
 ## Skills
 
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git logo" /></a>
 <a href="https://www.w3schools.com/c/"><img src="https://skillicons.dev/icons?i=c" alt="C logo" /></a>
 <a href="https://www.w3schools.com/html/default.asp"><img src="https://skillicons.dev/icons?i=html" alt="HTML logo" /></a>
 <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS logo" /></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git logo" /></a>
+<a href="https://www.javatpoint.com/bash"><img src="https://skillicons.dev/icons?i=bash" alt="Bash logo" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode logo" /></a>
+<a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" alt="Vim logo" /></a>
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux logo" /></a>
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" /></a>
-<a href="https://www.adobe.com/es/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" alt="Photshop logo" length="50px" width="50px" /></a>
+<a href="https://about.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab logo" /></a>
+<a href="https://www.adobe.com/es/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" alt="Photshop logo" /></a>
 <a href="https://www.adobe.com/es/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" alt="Illustrator logo" /></a>
-<a href="https://www.vegascreativesoftware.com/es/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" alt="Sony Vegas logo" length="50px" width="50px" /></a>
+<a href="https://www.vegascreativesoftware.com/es/"><img src="https://i.pinimg.com/originals/e2/f1/4f/e2f14fd81ae695ebae159a8b0ef53fcd.png" alt="Sony Vegas logo" length="50px" width="50px" /></a>
 
 ## Future Skills
 
 <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript logo" /></a>
+<a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap logo" /></a>
+<a href="https://www.learncpp.com/"><img src="https://skillicons.dev/icons?i=cpp" alt="Cpp logo" /></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL logo" /></a>
+<a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=js" alt="Sass logo" /></a>
+<a href="https://es.reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React logo" /></a>
+<a href="https://www.python.org/downloads/"><img src="https://skillicons.dev/icons?i=py" alt="Python logo" /></a>
+
 
 
 ## Let's Connect!
