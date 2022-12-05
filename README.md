@@ -51,4 +51,4 @@ My user in Discord is <i> chibi#3927 </i>
  
 <hr>
  
- ✨ Thanks for visiting! Let's follow each other on <b> <a href="https://github.com/silvinarossatti"> Github </a> </b> or connect via <b> <a href="https://www.linkedin.com/in/silvinarossatti/"> Linkedin. </b>
+ ✨ Thanks for visiting! I invite you to follow each other on <b> <a href="https://github.com/silvinarossatti"> Github </a> </b> or connect via <b> <a href="https://www.linkedin.com/in/silvinarossatti/"> Linkedin. </b>
