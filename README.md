@@ -7,8 +7,8 @@
 
 ## Skills 
 
-<a href="https://www.w3schools.com/c/"><img src="https://skillicons.dev/icons?i=c" alt="C logo" /></a>
-<a href="https://www.w3schools.com/html/default.asp"><img src="https://skillicons.dev/icons?i=html" alt="HTML logo" /></a>
+<a href="https://www.w3schools.com/c/" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C logo" /></a>
+<a href="https://www.w3schools.com/html/default.asp" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML logo" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS logo" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git logo" /></a>
 <a href="https://www.javatpoint.com/bash" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash logo" /></a>
