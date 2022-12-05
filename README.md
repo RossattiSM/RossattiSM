@@ -1,25 +1,34 @@
-## Hi there 👋, I'm Silvi
+# Hi there 👋, I'm Silvi
 
 - 🛠 I'm working on the <b> Libft project. </b>
 - 🌱 I’m currently learning <b> Git, Shell, C, C++, HTML & CSS. </b>
 - 📚 I'm studying at <b> <a href="https://www.42malaga.com/"> 42 Málaga. </a> </b>
 - 😲 I'm interested to learn <b> SQL, Bootstrap, Sass, JavaScript, React, Python, UX/UI </b> <br>
 
-<p align="center">
- <b> Technologies </b> <br>
+## Skills
+
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git logo" /></a>
 <a href="https://www.w3schools.com/c/"><img src="https://skillicons.dev/icons?i=c" alt="C logo" /></a>
-<a href="https://www.w3schools.com/html/default.asp"><img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="HTML logo" length="50px" width="50px" /></a>
-<a href="https://www.w3schools.com/css/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/250px-CSS3_logo.svg.png" alt="CSS logo" length="50px" width="50px" /></a>
-<a href="https://www.adobe.com/es/products/photoshop.html"><img src="https://i.pinimg.com/originals/6d/2a/aa/6d2aaaf01f9e23a3d75d81d75c454a66.jpg" alt="Photshop logo" length="50px" width="50px" /></a>
+<a href="https://www.w3schools.com/html/default.asp"><img src="https://skillicons.dev/icons?i=html" alt="HTML logo" /></a>
+<a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS logo" /></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" /></a>
+<a href="https://www.adobe.com/es/products/photoshop.html"><img src="" alt="Photshop logo" length="50px" width="50px" /></a>
 <a href="https://www.adobe.com/es/products/illustrator.html"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/adobe_illustrator_logo_icon_170615.png" alt="Illustrator logo" length="50px" width="50px" /></a>
 <a href="https://www.vegascreativesoftware.com/es/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" alt="Sony Vegas logo" length="50px" width="50px" /></a>
-</p>
+
+## Future Skills
 
 <p align="center">
  <b> Let's Connect! </b> <br> 
- <a href="https://www.linkedin.com/in/silvinarossatti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
+ <a href="https://www.linkedin.com/in/silvinarossatti/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Logo"></a>
+ <a href="https://github.com/silvinarossatti"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" /></a>
+ <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" alt="Discord logo" /></a>
+ <a href="https://www.instagram.com/chibirossatti/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram logo" /></a>
 </p>
+My user in Discord is <i> chibi#3927 </i>
+
+## Let's Connect!
+
 
 <hr>
 <p align="center">
