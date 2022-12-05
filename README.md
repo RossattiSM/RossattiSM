@@ -29,7 +29,8 @@
 </p>
 
  <hr>
- [![Silvina's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvinarossatti_icons=true&theme=transparent)]
+ 
+ [![Silvina's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvinarossatti_icons=true&theme=transparent)](https://github.com/silvinarossatti/github-readme-stats)
  
  <hr>
  
