@@ -33,14 +33,10 @@ My user in Discord is <i> chibi#3927 </i>
 
 ## I'm a 42 Cadet
 
-<p align="center">
 <b> Want to know about 42? </b> Visit the <a href="https://42.fr/en/homepage/"> website </a> !
-</p>
 
-<p align="center">
- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/srossatt?1337Badge=off&UM6P=off" alt="srossatt's 42 stats" /></a>
-</p> 
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/srossatt?1337Badge=off&UM6P=off" alt="srossatt's 42 stats" /></a>
  
- <hr>
+<hr>
  
  ✨ Thanks for visiting! Let's follow each other on <b> <a href="https://github.com/silvinarossatti"> Github </a> </b> or connect via <b> <a href="https://www.linkedin.com/in/silvinarossatti/"> Linkedin. </b>
