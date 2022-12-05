@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Silvi
+## Hi there 👋, I'm Silvi
 
 - 🛠 I'm working on the <b> Libft project. </b>
 - 🌱 I’m currently learning <b> Git, Shell, C, C++, HTML & CSS. </b>
@@ -15,7 +15,7 @@
 <a href="https://www.vegascreativesoftware.com/es/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" alt="Sony Vegas logo" length="50px" width="50px" /></a>
 
 
- <b> Let's Connect! </b> <br>
+ ### Let's Connect!
  <a href="https://www.linkedin.com/in/silvinarossatti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
 
 
