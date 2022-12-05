@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Silvi
 
-- 🛠 I'm working on the <b> Libft project. </b>
+- 🛠 I'm currently working on the <b> Libft project. </b>
 - 🌱 I’m currently learning <b> Linux, Git, Shell, C, C++, HTML, CSS & JavaScript. </b>
 - 📚 I'm studying at <b> <a href="https://www.42malaga.com/"> 42 Málaga. </a> </b>
 - 😲 I'm interested to learn <b> SQL, Bootstrap, Sass, React, Python, UX/UI </b> <br>
