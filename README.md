@@ -21,11 +21,11 @@
 
 <hr>
 <p align="center">
-<a href="https://42.fr/en/homepage/"><img src="https://repository-images.githubusercontent.com/237800104/dfc69080-46fb-11eb-9413-0f02ce8f5532" alt="42 School Banner" length="500px" width="400px" /></a>
+<b> Want to know about 42? </b> Visit the <a href="https://42.fr/en/homepage/"> website </a> !
 </p>
 
 <p align="center">
-<b> Want to know about 42? </b> Visit the <a href="https://42.fr/en/homepage/"> website </a> !
+<a href="https://42.fr/en/homepage/"><img src="http://softwareengineeringdaily.com/wp-content/uploads/2017/10/42CodingSchool.jpg" alt="42 School Banner" length="500px" width="400px" /></a>
 </p>
 
  <hr>
