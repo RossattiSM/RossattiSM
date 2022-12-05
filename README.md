@@ -16,6 +16,7 @@
 <a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" alt="Vim logo" /></a>
 <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux logo" /></a>
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" /></a>
+<a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=md" alt="Markdown logo" /></a>
 <a href="https://about.gitlab.com/" ><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab logo" /></a>
 <a href="https://www.adobe.com/es/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" alt="Photshop logo" /></a>
 <a href="https://www.adobe.com/es/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" alt="Illustrator logo" /></a>
