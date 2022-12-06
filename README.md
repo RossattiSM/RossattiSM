@@ -1,9 +1,7 @@
 # Hi there 👋, I'm Silvi
 
-- 🛠 I'm currently working on the <b> Libft project. </b>
-- 🌱 I’m learning <b> Linux, Git, Shell, C, C++, HTML, CSS & JavaScript. </b>
+- 🌱 I’m currently learning <b> Linux, Git, Shell, C, C++, HTML, CSS & JavaScript. </b>
 - 📚 I'm studying at <b> <a href="https://www.42malaga.com/"> 42 Málaga. </a> </b>
-- 😲 I'm interested to learn <b> SQL, Bootstrap, Sass, React, Python, UX/UI </b> <br>
 
 ## Skills in progress
 
@@ -22,7 +20,7 @@
 <a href="https://www.adobe.com/es/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" alt="Illustrator logo" /></a>
 <a href="https://www.vegascreativesoftware.com/es/"><img src="https://i.pinimg.com/originals/e2/f1/4f/e2f14fd81ae695ebae159a8b0ef53fcd.png" alt="Sony Vegas logo" length="47px" width="47px" /></a>
 
-## Future Skills 
+## Interested in
 
 <a href="https://www.learncpp.com/"><img src="https://skillicons.dev/icons?i=cpp" alt="Cpp logo" /></a>
 <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript logo" /></a>
