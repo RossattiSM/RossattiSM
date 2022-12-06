@@ -5,7 +5,7 @@
 - 📚 I'm studying at <b> <a href="https://www.42malaga.com/"> 42 Málaga. </a> </b>
 - 😲 I'm interested to learn <b> SQL, Bootstrap, Sass, React, Python, UX/UI </b> <br>
 
-## Skills 
+## Skills in progress
 
 <a href="https://www.w3schools.com/c/"><img src="https://skillicons.dev/icons?i=c" alt="C logo" /></a>
 <a href="https://www.w3schools.com/html/default.asp"><img src="https://skillicons.dev/icons?i=html" alt="HTML logo" /></a>
