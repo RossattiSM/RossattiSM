@@ -34,8 +34,8 @@
 
 ## Let's Connect! 
 
-<a href="https://www.linkedin.com/in/silvinarossatti/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Logo"></a>
-<a href="https://github.com/silvinarossatti"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" /></a>
+<a href="https://www.linkedin.com/in/rossattism/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Logo"></a>
+<a href="https://github.com/RossattiSM"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" /></a>
 <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" alt="Discord logo" /></a>
 <a href="https://www.instagram.com/chibirossatti/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram logo" /></a>
 <a href="https://www.facebook.com/silmaross"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook logo" /></a>
@@ -50,4 +50,4 @@ My user in Discord is <i> chibi#3927 </i>
  
 <hr>
  
- ✨ Thanks! I invite you to follow each other on <b> <a href="https://github.com/silvinarossatti"> Github </a> </b> or connect via <b> <a href="https://www.linkedin.com/in/silvinarossatti/"> Linkedin. </b>
+ ✨ Thanks! I invite you to follow each other on <b> <a href="https://github.com/RossattiSM"> Github </a> </b> or connect via <b> <a href="https://www.linkedin.com/in/rossattism/"> Linkedin. </b>
