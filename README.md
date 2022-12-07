@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning <b> Linux, Git, Shell, C, HTML, CSS & JavaScript. </b>
 - 📚 I'm studying at <b> <a href="https://www.42malaga.com/"> 42 Málaga. </a> </b>
 
+## Skills 
+
+<a href="https://www.adobe.com/es/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" alt="Photshop logo" /></a>
+<a href="https://www.adobe.com/es/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" alt="Illustrator logo" /></a>
+
 ## Skills in progress
 
 <a href="https://www.w3schools.com/c/"><img src="https://skillicons.dev/icons?i=c" alt="C logo" /></a>
@@ -16,8 +21,7 @@
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" /></a>
 <a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=md" alt="Markdown logo" /></a>
 <a href="https://about.gitlab.com/" ><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab logo" /></a>
-<a href="https://www.adobe.com/es/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" alt="Photshop logo" /></a>
-<a href="https://www.adobe.com/es/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" alt="Illustrator logo" /></a>
+
 <a href="https://www.vegascreativesoftware.com/es/"><img src="https://i.pinimg.com/originals/e2/f1/4f/e2f14fd81ae695ebae159a8b0ef53fcd.png" alt="Sony Vegas logo" length="47px" width="47px" /></a>
 
 ## Interested in
