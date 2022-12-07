@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Silvi
 
-- 🌱 I’m currently learning <b> Linux, Git, Shell, C, C++, HTML, CSS & JavaScript. </b>
+- 🌱 I’m currently learning <b> Linux, Git, Shell, C, HTML, CSS & JavaScript. </b>
 - 📚 I'm studying at <b> <a href="https://www.42malaga.com/"> 42 Málaga. </a> </b>
 
 ## Skills in progress
