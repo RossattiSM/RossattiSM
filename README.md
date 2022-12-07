@@ -20,7 +20,6 @@
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git logo" /></a>
 <a href="https://www.javatpoint.com/bash"><img src="https://skillicons.dev/icons?i=bash" alt="Bash logo" /></a>
 <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux logo" /></a>
-
 <a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=md" alt="Markdown logo" /></a>
 <a href="https://about.gitlab.com/" ><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab logo" /></a>
 
