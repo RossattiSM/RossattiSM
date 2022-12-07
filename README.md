@@ -5,21 +5,22 @@
 
 ## Skills 
 
+<a href="https://www.w3schools.com/c/"><img src="https://skillicons.dev/icons?i=c" alt="C logo" /></a>
+<a href="https://www.w3schools.com/html/default.asp"><img src="https://skillicons.dev/icons?i=html" alt="HTML logo" /></a>
 <a href="https://www.adobe.com/es/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" alt="Photshop logo" /></a>
 <a href="https://www.adobe.com/es/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" alt="Illustrator logo" /></a>
 <a href="https://www.vegascreativesoftware.com/es/"><img src="https://i.pinimg.com/originals/e2/f1/4f/e2f14fd81ae695ebae159a8b0ef53fcd.png" alt="Sony Vegas logo" length="47px" width="47px" /></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode logo" /></a>
+<a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" alt="Vim logo" /></a>
 
 ## Skills in progress
 
-<a href="https://www.w3schools.com/c/"><img src="https://skillicons.dev/icons?i=c" alt="C logo" /></a>
-<a href="https://www.w3schools.com/html/default.asp"><img src="https://skillicons.dev/icons?i=html" alt="HTML logo" /></a>
 <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS logo" /></a>
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git logo" /></a>
 <a href="https://www.javatpoint.com/bash"><img src="https://skillicons.dev/icons?i=bash" alt="Bash logo" /></a>
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode logo" /></a>
-<a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" alt="Vim logo" /></a>
 <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux logo" /></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" /></a>
+
 <a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=md" alt="Markdown logo" /></a>
 <a href="https://about.gitlab.com/" ><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab logo" /></a>
 
