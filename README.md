@@ -1,4 +1,12 @@
-Select your preferred language: <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.md"> EN </a> or <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README_es.md"> ES </a>
+Select your preferred language: <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.md"> EN </a> or <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README_es.md"> ES </a> <br>
+
+<details>
+  <summary>My repositories</summary>
+
+<a href="https://github.com/RossattiSM/42Piscine"> <code>42 Piscine</code> </a>: 42 Piscine projects made by me during the C Piscine Bootcamp. <br>
+<a href="https://github.com/RossattiSM/profile-readme-tutorial"> <code>Readme Tutorial</code> </a>: Basic profile editing tutorial made by me. <br>
+
+</details>
 <hr>
 
 <p align="center"> <b> 👋 Hello World! </b> <i> I'm Silvina. </i> <br><br>
@@ -21,15 +29,15 @@ I’m currently learning <code>Git</code> | <code>Shell</code> | <code>C</code> 
 
 <details>
   <summary>I'm a 42 Student</summary>
- 
-<p align="center"> 
+
+<p align="center">
 <b> <i> Don't know what 42 is? </i> </b> Click <a href="https://42.fr/en/homepage/"> here </a> to find out!<br><br>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/srossatt?1337Badge=off&UM6P=off" alt="srossatt's 42 stats" /></a>
 </p>
- 
+
 </details>
 
 <hr>
 <a href="https://www.linkedin.com/in/rossattism/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Logo" style="width: 16px; height: 16px" /></a> &nbsp | &nbsp
 <a href="https://github.com/RossattiSM"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" style="width: 16px; height: 16px" /></a>  &nbsp | &nbsp
-<a href="https://www.instagram.com/chibirossatti/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram logo" style="width: 16px; height: 16px" /></a>  &nbsp | &nbsp <code>discord: chibi#3927</code> &nbsp | &nbsp <code>✨ Thanks for everything!</code> &nbsp 
+<a href="https://www.instagram.com/chibirossatti/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram logo" style="width: 16px; height: 16px" /></a>  &nbsp | &nbsp <code>discord: chibi#3927</code> &nbsp | &nbsp <code>✨ Thanks for your visit!</code> &nbsp 
