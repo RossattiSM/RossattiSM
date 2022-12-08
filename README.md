@@ -1,13 +1,13 @@
 Select your preferred language: <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.md"> EN </a> or <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README_es.md"> ES </a>
 <hr>
 
-<p align="center"> <b> 👋 Hello World! </b> <i> I'm Silvina. </i> <br> <br>
-- 🌱 I’m currently learning <b> Linux, Git, Shell, C, HTML, CSS and JavaScript. </b> <br>
-- 👀 I’m interested in <b> Bootstrap, React, Sass, MySQL, and more. </b> <br>
+<p align="center"> <b> 👋 Hello World! </b> <i> I'm Silvina. </i> <br><br>
+I’m currently learning <code>Git</code> | <code>Shell</code> | <code>C</code> | <code>HTML</code> | <code>CSS</code> | <code>JavaScript</code> | <code>Web Development</code>. <br><br>
+- 👀 I’m interested in <b> Linux, Bootstrap, React, Sass and MySQL. </b> <br>
 - 📚 I'm studying Software Engineering at <b> <a href="https://www.42malaga.com/"> 42 Málaga. </a> </b> <br>
 </p>
 
-<p align="center"> <b> Skills </b> <br> <br>
+<p align="center"> <b> SKILLS </b> <br> <br>
 <a href="https://www.w3schools.com/c/"><img src="https://skillicons.dev/icons?i=c" alt="C logo" /></a>
 <a href="https://www.w3schools.com/html/default.asp"><img src="https://skillicons.dev/icons?i=html" alt="HTML logo" /></a>
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" /></a>
@@ -18,15 +18,17 @@ Select your preferred language: <a href="https://github.com/RossattiSM/RossattiS
 <a href="https://www.vegascreativesoftware.com/es/"><img src="https://i.pinimg.com/originals/e2/f1/4f/e2f14fd81ae695ebae159a8b0ef53fcd.png" alt="Sony Vegas logo" length="46px" width="46px" /></a>
 </p>
 
-<p align="center"> <b> Social </b> <br> <br>
-<a href="https://www.linkedin.com/in/rossattism/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Logo"></a>
-<a href="https://github.com/RossattiSM"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" /></a>
-<a href="https://www.instagram.com/chibirossatti/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram logo" /></a>
-</p>
-
-<p align="center"> <b> <i> Do not know what 42 is? </i> </b> Click <a href="https://42.fr/en/homepage/"> here </a>! <br><br>
+<details>
+  <summary>I'm a 42 Student</summary>
+ 
+<p align="center"> 
+<b> <i> Don't know what 42 is? </i> </b> Click <a href="https://42.fr/en/homepage/"> here </a> to find out!<br><br>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/srossatt?1337Badge=off&UM6P=off" alt="srossatt's 42 stats" /></a>
 </p>
+ 
+</details>
 
 <hr>
- ✨ Thanks for visiting!
+<a href="https://www.linkedin.com/in/rossattism/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Logo" style="width: 16px; height: 16px" /></a> &nbsp | &nbsp
+<a href="https://github.com/RossattiSM"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" style="width: 16px; height: 16px" /></a>  &nbsp | &nbsp
+<a href="https://www.instagram.com/chibirossatti/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram logo" style="width: 16px; height: 16px" /></a>  &nbsp | &nbsp <code>discord: chibi#3927</code> &nbsp | &nbsp <code>✨ Thanks for everything!</code> &nbsp 
