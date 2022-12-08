@@ -3,8 +3,8 @@ Select your preferred language: <a href="https://github.com/RossattiSM/RossattiS
 <details>
   <summary>My repositories</summary>
 
-<a href="https://github.com/RossattiSM/42Piscine"> <code>42 Piscine</code> </a>: 42 Piscine projects made by me during the C Piscine Bootcamp. <br>
-<a href="https://github.com/RossattiSM/profile-readme-tutorial"> <code>Readme Tutorial</code> </a>: Basic profile editing tutorial made by me. <br>
+<a href="https://github.com/RossattiSM/42Piscine"> <code>42 Piscine</code> </a>: Projects made in the C Piscine Bootcamp of 42 Málaga.. <br>
+<a href="https://github.com/RossattiSM/profile-readme-tutorial"> <code>Readme Tutorial</code> </a>: Basic tutorial for editing profiles on Github. <br>
 
 </details>
 <hr>
