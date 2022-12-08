@@ -1,4 +1,12 @@
-Selecciona el lenguaje de tu preferencia: <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.md"> EN </a> o <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README_es.md"> ES </a>
+Selecciona el lenguaje de tu preferencia: <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.md"> EN </a> o <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README_es.md"> ES </a> br>
+
+<details>
+  <summary>Mis repositorios</summary>
+
+<a href="https://github.com/RossattiSM/42Piscine"> <code>42 Piscine</code> </a>: Proyectos realizados en el C Piscine Bootcamp de 42 Málaga. <br>
+<a href="https://github.com/RossattiSM/profile-readme-tutorial"> <code>Readme Tutorial</code> </a>: Tutorial básico para editar perfiles en Github. <br>
+
+</details>
 <hr>
 
 <p align="center"> <b> 👋 Holla mundo! </b> <i> Soy Silvina. </i> <br><br>
