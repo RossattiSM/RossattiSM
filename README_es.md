@@ -24,7 +24,7 @@ Selecciona el lenguaje de tu preferencia: <a href="https://github.com/RossattiSM
 <a href="https://www.instagram.com/chibirossatti/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram logo" /></a>
 </p>
 
-<p align="center"> <b> <i> Quieres saber sobre 42? </i> </b> Haz click <a href="https://42.fr/en/homepage/"> aquí </a>! <br><br>
+<p align="center"> <b> <i> No sabes qué es 42? </i> </b> Haz click <a href="https://www.42malaga.com/"> aquí </a>! <br><br>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/srossatt?1337Badge=off&UM6P=off" alt="srossatt's 42 stats" /></a>
 </p>
 
