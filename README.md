@@ -8,6 +8,7 @@ I’m currently learning <code>Git</code> | <code>Shell</code> | <code>C</code> 
 </p>
 
 <p align="center"> <b> SKILLS </b> <br> <br>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git logo" /></a>
 <a href="https://www.w3schools.com/c/"><img src="https://skillicons.dev/icons?i=c" alt="C logo" /></a>
 <a href="https://www.w3schools.com/html/default.asp"><img src="https://skillicons.dev/icons?i=html" alt="HTML logo" /></a>
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" /></a>
