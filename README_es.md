@@ -1,7 +1,7 @@
 Selecciona el lenguaje de tu preferencia: <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.md"> EN </a> or <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README_es.md"> ES </a>
 <hr>
 
-<p align="center"> <b> 👋 Hello World! </b> <i> I'm Silvina. </i> <br> <br>
+<p align="center"> <b> 👋 Hola mundo! </b> <i> Soy Silvina. </i> <br> <br>
 - 🌱 Actualmente, estoy aprendiendo <b> Linux, Git, Shell, C, HTML, CSS and JavaScript. </b> <br>
 - 👀 Estoy interesada en <b> Bootstrap, React, Sass, MySQL, and more. </b> <br>
 - 📚 Estoy estudiando Ingeniería del Software en <b> <a href="https://www.42malaga.com/"> 42 Málaga. </a> </b> <br>
