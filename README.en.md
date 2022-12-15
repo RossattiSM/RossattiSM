@@ -1,10 +1,12 @@
-<a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.md"> <img src="https://img.shields.io/badge/lang-es-orange" alt="spanish language badge"></a> <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.en.md"> <img src="https://img.shields.io/badge/lang-en-blue" alt="english language badge">  </a> <br>
+<a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.md"> <img src="https://img.shields.io/badge/lang-es-orange" alt="spanish language badge"></a> <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.en.md"> <img src="https://img.shields.io/badge/lang-en-blue" alt="english language badge">  </a> <br />
 
 <details>
   <summary>My repositories</summary>
 
-<a href="https://github.com/RossattiSM/42Piscine"> <code>42 Piscine</code> </a>: Projects made in the C Piscine Bootcamp of 42 Málaga.. <br>
-<a href="https://github.com/RossattiSM/profile-readme-tutorial"> <code>Readme Tutorial</code> </a>: Basic tutorial for editing profiles on Github. <br>
+<a href="https://github.com/RossattiSM/42Piscine"> <code>42 Piscine</code> </a>: Projects made in the C Piscine Bootcamp of 42 Málaga.. <br />
+<a href="https://github.com/RossattiSM/profile-readme-tutorial"> <code>Readme Tutorial</code> </a>: Basic tutorial for editing profiles on Github.  <br />
+<a href="https://github.com/RossattiSM/Samsung-Desarrolladoras"> <code>Samsung-Desarrolladoras</code> </a>: Projects and exercises developed in Samsung Desarrolladoras. <i> (in progress) </i> <br />
+<a href="https://github.com/RossattiSM/Libft"> <code>Libft</code> </a>: My first library in C.  <i> (in progress) </i> <br />
 
 </details>
 <hr>
