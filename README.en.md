@@ -30,7 +30,7 @@
 </p>
 
 <details>
-  <summary>42 Student</summary>
+  <summary>42 Cadet</summary>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/srossatt?1337Badge=off&UM6P=off" alt="srossatt's 42 stats" /></a>
 </details>
 
