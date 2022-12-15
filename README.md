@@ -9,15 +9,15 @@
 </details>
 <hr>
 
-<p align="center"> <i> Soy Silvina María Rossatti </i> <br />
-  <b>Desarrolladora web junior.</b><br /><br />
-  <i> Actualmente me dedico a: </i> <br />
+<p align="center">
+  <b>Desarrolladora web junior </b><br /><br />
+  <i> Actualmente dedicada a: </i> <br />
 📚 Estudiar  <b> programación informática  </b> en <a href="https://www.42malaga.com/"> 42 Málaga. </a> <br />
-📖 Aprender sobre  <b> desarrollo web </b> con el programa <a href="https://www.samsung.com/es/tecnologiaconproposito/samsung-desarrolladoras/"> Samsung Desarrolladoras. </a> <br />
+📖 Aprender <b> desarrollo web </b> con <a href="https://www.samsung.com/es/tecnologiaconproposito/samsung-desarrolladoras/"> Samsung Desarrolladoras. </a> <br />
 🤓 Practicar <code>Git</code> | <code>Shell</code> | <code>C</code> | <code>HTML</code> | <code>CSS</code> | <code>JavaScript</code> <br />
 </p>
 
-<p align="center"> <b> TENGO CONOCIMIENTOS SOBRE </b> <br />
+<p align="center"> <b> CON CONOCIMIENTOS DE </b> <br />
  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git logo" /></a>
 <a href="https://www.w3schools.com/c/"><img src="https://skillicons.dev/icons?i=c" alt="C logo" /></a>
 <a href="https://www.w3schools.com/html/default.asp"><img src="https://skillicons.dev/icons?i=html" alt="HTML logo" /></a>
@@ -37,5 +37,4 @@
 
 <hr>
 <a href="https://www.linkedin.com/in/rossattism/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Logo" style="width: 16px; height: 16px" /></a> &nbsp | &nbsp
-<a href="https://github.com/RossattiSM"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" style="width: 16px; height: 16px" /></a>  &nbsp | &nbsp
-<a href="https://www.instagram.com/chibirossatti/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram logo" style="width: 16px; height: 16px" /></a>  &nbsp | &nbsp <code>discord: chibi#3927</code> &nbsp | &nbsp <code>✨ Gracias por tu visita!</code> &nbsp 
+<a href="https://github.com/RossattiSM"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" style="width: 16px; height: 16px" /></a>  &nbsp | &nbsp <code>✨ Gracias por tu visita!</code> &nbsp 
