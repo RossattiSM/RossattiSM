@@ -1,22 +1,24 @@
-Select your preferred language: <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.md"> EN </a> or <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README_es.md"> ES </a> <br>
+<a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.md"> <img src="https://img.shields.io/badge/lang-es-orange" alt="spanish language badge"></a> <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.en.md"> <img src="https://img.shields.io/badge/lang-en-blue" alt="english language badge">  </a> <br>
 
 <details>
-  <summary>My repositories</summary>
+  <summary>Mis repositorios</summary>
 
-<a href="https://github.com/RossattiSM/42Piscine"> <code>42 Piscine</code> </a>: Projects made in the C Piscine Bootcamp of 42 Málaga.. <br>
-<a href="https://github.com/RossattiSM/profile-readme-tutorial"> <code>Readme Tutorial</code> </a>: Basic tutorial for editing profiles on Github. <br>
+<a href="https://github.com/RossattiSM/42Piscine"> <code>42 Piscine</code> </a>: Proyectos realizados en el C Piscine Bootcamp de 42 Málaga. <br>
+<a href="https://github.com/RossattiSM/profile-readme-tutorial"> <code>Readme Tutorial</code> </a>: Tutorial básico para editar perfiles en Github. <br>
 
 </details>
 <hr>
 
-<p align="center"> <b> 👋 Hello World! </b> <i> I'm Silvina. </i> <br><br>
-I’m currently learning <code>Git</code> | <code>Shell</code> | <code>C</code> | <code>HTML</code> | <code>CSS</code> | <code>JavaScript</code> | <code>Web Development</code>. <br><br>
-- 👀 I’m interested in <b> Linux, Bootstrap, React, Sass and MySQL. </b> <br>
-- 📚 I'm studying Software Engineering at <b> <a href="https://www.42malaga.com/"> 42 Málaga. </a> </b> <br>
+<p align="center"> 👋 <i> Soy Silvina María Rossatti </i> <br />
+  <b>Desarrolladora web junior especializada en front end.</b><br /><br />
+  <i> Actualmente me dedico a: </i> <br />
+📚 Estudiar  <b> programación informática  </b> en <a href="https://www.42malaga.com/"> 42 Málaga. </a> <br />
+📖 Aprender sobre  <b> desarrollo web </b> con el programa <a href="https://www.samsung.com/es/tecnologiaconproposito/samsung-desarrolladoras/"> Samsung Desarrolladoras. </a> <br />
+🤓 Practicar con <code>Git</code> | <code>Shell</code> | <code>C</code> | <code>HTML</code> | <code>CSS</code> | <code>JavaScript</code> <br />
 </p>
 
-<p align="center"> <b> SKILLS </b> <br> <br>
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git logo" /></a>
+<p align="center"> <b> TENGO CONOCIMIENTOS SOBRE </b> <br />
+ <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git logo" /></a>
 <a href="https://www.w3schools.com/c/"><img src="https://skillicons.dev/icons?i=c" alt="C logo" /></a>
 <a href="https://www.w3schools.com/html/default.asp"><img src="https://skillicons.dev/icons?i=html" alt="HTML logo" /></a>
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" /></a>
@@ -28,16 +30,12 @@ I’m currently learning <code>Git</code> | <code>Shell</code> | <code>C</code> 
 </p>
 
 <details>
-  <summary>I'm a 42 Student</summary>
-
-<p align="center">
-<b> <i> Don't know what 42 is? </i> </b> Click <a href="https://42.fr/en/homepage/"> here </a> to find out!<br><br>
+  <summary>Soy estudiante de 42</summary>
+  <br />
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/srossatt?1337Badge=off&UM6P=off" alt="srossatt's 42 stats" /></a>
-</p>
-
 </details>
 
 <hr>
 <a href="https://www.linkedin.com/in/rossattism/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Logo" style="width: 16px; height: 16px" /></a> &nbsp | &nbsp
 <a href="https://github.com/RossattiSM"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" style="width: 16px; height: 16px" /></a>  &nbsp | &nbsp
-<a href="https://www.instagram.com/chibirossatti/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram logo" style="width: 16px; height: 16px" /></a>  &nbsp | &nbsp <code>discord: chibi#3927</code> &nbsp | &nbsp <code>✨ Thanks for your visit!</code> &nbsp 
+<a href="https://www.instagram.com/chibirossatti/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram logo" style="width: 16px; height: 16px" /></a>  &nbsp | &nbsp <code>discord: chibi#3927</code> &nbsp | &nbsp <code>✨ Gracias por tu visita!</code> &nbsp 
