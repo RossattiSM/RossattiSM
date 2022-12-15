@@ -1,4 +1,4 @@
-<a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.md"> <img src="https://img.shields.io/badge/lang-es-orange" alt="spanish language badge"></a> <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.en.md"> <img src="https://img.shields.io/badge/lang-en-blue" alt="english language badge">  </a> <br />
+<a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.md"> <img src="https://img.shields.io/badge/lang-es-blue" alt="spanish language badge"></a> <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.en.md"> <img src="https://img.shields.io/badge/lang-en-blue" alt="english language badge">  </a> <br />
 
 <details>
   <summary>My repositories</summary>
