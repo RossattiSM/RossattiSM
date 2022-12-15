@@ -14,7 +14,7 @@
   <i> Actualmente me dedico a: </i> <br />
 📚 Estudiar  <b> programación informática  </b> en <a href="https://www.42malaga.com/"> 42 Málaga. </a> <br />
 📖 Aprender sobre  <b> desarrollo web </b> con el programa <a href="https://www.samsung.com/es/tecnologiaconproposito/samsung-desarrolladoras/"> Samsung Desarrolladoras. </a> <br />
-🤓 Practicar con <code>Git</code> | <code>Shell</code> | <code>C</code> | <code>HTML</code> | <code>CSS</code> | <code>JavaScript</code> <br />
+🤓 Practicar <code>Git</code> | <code>Shell</code> | <code>C</code> | <code>HTML</code> | <code>CSS</code> | <code>JavaScript</code> <br />
 </p>
 
 <p align="center"> <b> TENGO CONOCIMIENTOS SOBRE </b> <br />
