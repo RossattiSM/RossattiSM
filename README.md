@@ -30,7 +30,7 @@
 </p>
 
 <details>
-  <summary>Estudiante de 42</summary>
+  <summary>Cadete en 42</summary>
   <br />
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/srossatt?1337Badge=off&UM6P=off" alt="srossatt's 42 stats" /></a>
 </details>
