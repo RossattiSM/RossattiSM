@@ -6,7 +6,7 @@
 <a href="https://github.com/RossattiSM/42Piscine"> <code>42 Piscine</code> </a>: Projects made in the C Piscine Bootcamp of 42 Málaga.. <br />
 <a href="https://github.com/RossattiSM/profile-readme-tutorial"> <code>Readme Tutorial</code> </a>: Basic tutorial for editing profiles on Github.  <br />
 <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras"> <code>Samsung-Desarrolladoras</code> </a>: Projects and exercises developed in Samsung Desarrolladoras. <i> (in development)  </i> <br />
-<a href="https://github.com/RossattiSM/42Libft"> <code>42Libft</code> </a>: My first library in C.  <i> (in development) </i> <br />
+<a href="https://github.com/RossattiSM/42Cursus.Libft"> <code>Libft</code> </a>: My first library in C.  <i> (in development) </i> <br />
 
 </details>
 <hr>
