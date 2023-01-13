@@ -12,7 +12,7 @@
 <hr>
 
 <p align="center">
-  <b>Desarrolladora web junior </b><br /><br />
+  <b>Desarrolladora junior </b><br /><br />
   <i> Actualmente dedicada a: </i> <br />
 📚 Estudiar  <b> programación informática  </b> en <a href="https://www.42malaga.com/"> 42 Málaga. </a> <br />
 📖 Aprender <b> desarrollo web </b> con <a href="https://www.samsung.com/es/tecnologiaconproposito/samsung-desarrolladoras/"> Samsung Desarrolladoras. </a> <br />
