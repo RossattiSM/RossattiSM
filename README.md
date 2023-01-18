@@ -1,25 +1,16 @@
-<a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.md"> <img src="https://img.shields.io/badge/lang-es-blue" alt="spanish language badge"></a> <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.en.md"> <img src="https://img.shields.io/badge/lang-en-blue" alt="english language badge">  </a> <br>
-
-<details>
-  <summary>Mis repositorios</summary>
-
-<a href="https://github.com/RossattiSM/42Piscine"> <code>42Piscine</code> </a>: Proyectos realizados en el C Piscine Bootcamp de 42 Málaga. <br>
-<a href="https://github.com/RossattiSM/profile-readme-tutorial"> <code>profile-readme-tutorial</code> </a>: Tutorial básico para editar perfiles en Github. <br>
-<a href="https://github.com/RossattiSM/Samsung-Desarrolladoras"> <code>Samsung-Desarrolladoras</code> </a>: Proyectos y ejercicios realizados en Samsung Desarrolladoras. <i> (en desarrollo)  </i><br>
-<a href="https://github.com/RossattiSM/42Cursus.Libft"> <code>Libft</code> </a>: Mi primer librería en C. <i> (en desarrollo) </i><br>
-
-</details>
+<a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.md"> <img src="https://img.shields.io/badge/lang-es-blue" alt="spanish language badge"></a> <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.en.md"> <img src="https://img.shields.io/badge/lang-en-blue" alt="english language badge">  </a>
 <hr>
 
+<h1 align="center"> Programadora informática </h1>
+<p align="center"><img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" length="150px" height="150px"></a></p>
 <p align="center">
-  <b>Programadora informática </b><br /><br />
-  <i> Actualmente dedicada a: </i> <br />
-📚 Estudiar  <b> programación informática  </b> en <a href="https://www.42malaga.com/"> 42 Málaga. </a> <br />
+  <i> Actualmente me dedico a: </i> <br />
+📚 Estudiar  <b> programación </b> en <a href="https://www.42malaga.com/"> 42 Málaga. </a> <br />
 📖 Aprender <b> desarrollo web </b> con <a href="https://www.samsung.com/es/tecnologiaconproposito/samsung-desarrolladoras/"> Samsung Desarrolladoras. </a> <br />
 🤓 Practicar <code>Git</code> | <code>Shell</code> | <code>C</code> | <code>HTML</code> | <code>CSS</code> | <code>JavaScript</code> <br />
 </p>
 
-<p align="center"> <b> CON CONOCIMIENTOS DE </b> <br />
+<p align="center"> <b> CUENTO CON CONOCIMIENTOS EN </b> <br />
  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git logo" /></a>
 <a href="https://www.w3schools.com/c/"><img src="https://skillicons.dev/icons?i=c" alt="C logo" /></a>
 <a href="https://www.w3schools.com/html/default.asp"><img src="https://skillicons.dev/icons?i=html" alt="HTML logo" /></a>
@@ -35,6 +26,16 @@
   <summary>Cadete en 42</summary>
   <br />
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/srossatt?1337Badge=off&UM6P=off" alt="srossatt's 42 stats" /></a>
+</details>
+
+<details>
+  
+  <summary>Repositorios</summary>
+<a href="https://github.com/RossattiSM/42Piscine"> <code>42Piscine</code> </a>: Proyectos realizados en el C Piscine Bootcamp de 42 Málaga. <br>
+<a href="https://github.com/RossattiSM/profile-readme-tutorial"> <code>profile-readme-tutorial</code> </a>: Tutorial básico para editar perfiles en Github. <br>
+<a href="https://github.com/RossattiSM/Samsung-Desarrolladoras"> <code>Samsung-Desarrolladoras</code> </a>: Proyectos y ejercicios realizados en Samsung Desarrolladoras. <i> (en desarrollo)  </i><br>
+<a href="https://github.com/RossattiSM/42Cursus.Libft"> <code>Libft</code> </a>: Mi primer librería en C. <i> (en desarrollo) </i><br>
+  
 </details>
 
 <hr>
