@@ -1,4 +1,5 @@
-<a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.md"> <img src="https://img.shields.io/badge/lang-es-blue" alt="spanish language badge"></a> <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.en.md"> <img src="https://img.shields.io/badge/lang-en-blue" alt="english language badge">  </a>
+<a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.md"> <img src="https://img.shields.io/badge/lang-es-blue" alt="spanish language badge"></a> 
+<a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.en.md"> <img src="https://img.shields.io/badge/lang-en-blue" alt="english language badge"></a>
 
 <details>
   
@@ -15,7 +16,7 @@
 <hr>
 
 <h1 align="center"> Programadora informática </h1>
-<p align="center"><img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" length="150px" height="150px"></p>
+<p align="center"><img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" length="125px" height="125px"></p>
 <p align="center">
   <i> Actualmente me dedico a: </i> <br />
 📚 Estudiar  <b> programación </b> en <a href="https://www.42malaga.com/"> 42 Málaga. </a> <br />
