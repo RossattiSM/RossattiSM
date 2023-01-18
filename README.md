@@ -1,4 +1,17 @@
 <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.md"> <img src="https://img.shields.io/badge/lang-es-blue" alt="spanish language badge"></a> <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.en.md"> <img src="https://img.shields.io/badge/lang-en-blue" alt="english language badge">  </a>
+
+<details>
+  
+  <summary>Repositorios</summary>
+
+<a href="https://github.com/RossattiSM/profile-readme-tutorial"> <code>profile-readme-tutorial</code> </a>: Tutorial básico para editar perfiles en Github. <br>
+<a href="https://github.com/RossattiSM/42Cursus.Libft"> <code>Libft</code> </a>: Mi primer librería en C. <i> (en desarrollo) </i><br>
+<a href="https://github.com/RossattiSM/42Piscine"> <code>42Piscine</code> </a>: Proyectos realizados en el C Piscine Bootcamp de 42 Málaga. <br>
+<a href="https://github.com/RossattiSM/Samsung-Desarrolladoras"> <code>Samsung-Desarrolladoras</code> </a>: Proyectos y ejercicios realizados en Samsung Desarrolladoras. <i> (en desarrollo)  </i><br>
+
+  
+</details>
+
 <hr>
 
 <h1 align="center"> Programadora informática </h1>
@@ -21,18 +34,6 @@
 <a href="https://www.adobe.com/es/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" alt="Illustrator logo" /></a>
 <a href="https://www.vegascreativesoftware.com/es/"><img src="https://i.pinimg.com/originals/e2/f1/4f/e2f14fd81ae695ebae159a8b0ef53fcd.png" alt="Sony Vegas logo" length="46px" width="46px" /></a>
 </p>
-
-<details>
-  
-  <summary>Repositorios</summary>
-
-<a href="https://github.com/RossattiSM/profile-readme-tutorial"> <code>profile-readme-tutorial</code> </a>: Tutorial básico para editar perfiles en Github. <br>
-<a href="https://github.com/RossattiSM/42Cursus.Libft"> <code>Libft</code> </a>: Mi primer librería en C. <i> (en desarrollo) </i><br>
-<a href="https://github.com/RossattiSM/42Piscine"> <code>42Piscine</code> </a>: Proyectos realizados en el C Piscine Bootcamp de 42 Málaga. <br>
-<a href="https://github.com/RossattiSM/Samsung-Desarrolladoras"> <code>Samsung-Desarrolladoras</code> </a>: Proyectos y ejercicios realizados en Samsung Desarrolladoras. <i> (en desarrollo)  </i><br>
-
-  
-</details>
 
 <hr>
 <a href="https://www.linkedin.com/in/rossattism/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Logo" style="width: 16px; height: 16px" /></a> &nbsp | &nbsp
