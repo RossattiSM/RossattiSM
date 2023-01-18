@@ -2,7 +2,7 @@
 <hr>
 
 <h1 align="center"> Programadora informática </h1>
-<p align="center"><img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" length="150px" height="150px"></a></p>
+<p align="center"><img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" length="150px" height="150px"></p>
 <p align="center">
   <i> Actualmente me dedico a: </i> <br />
 📚 Estudiar  <b> programación </b> en <a href="https://www.42malaga.com/"> 42 Málaga. </a> <br />
@@ -31,10 +31,12 @@
 <details>
   
   <summary>Repositorios</summary>
-<a href="https://github.com/RossattiSM/42Piscine"> <code>42Piscine</code> </a>: Proyectos realizados en el C Piscine Bootcamp de 42 Málaga. <br>
+
 <a href="https://github.com/RossattiSM/profile-readme-tutorial"> <code>profile-readme-tutorial</code> </a>: Tutorial básico para editar perfiles en Github. <br>
-<a href="https://github.com/RossattiSM/Samsung-Desarrolladoras"> <code>Samsung-Desarrolladoras</code> </a>: Proyectos y ejercicios realizados en Samsung Desarrolladoras. <i> (en desarrollo)  </i><br>
 <a href="https://github.com/RossattiSM/42Cursus.Libft"> <code>Libft</code> </a>: Mi primer librería en C. <i> (en desarrollo) </i><br>
+<a href="https://github.com/RossattiSM/42Piscine"> <code>42Piscine</code> </a>: Proyectos realizados en el C Piscine Bootcamp de 42 Málaga. <br>
+<a href="https://github.com/RossattiSM/Samsung-Desarrolladoras"> <code>Samsung-Desarrolladoras</code> </a>: Proyectos y ejercicios realizados en Samsung Desarrolladoras. <i> (en desarrollo)  </i><br>
+
   
 </details>
 
