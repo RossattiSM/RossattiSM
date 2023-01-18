@@ -12,7 +12,7 @@
 <hr>
 
 <p align="center">
-<b> Junior Developer </b> <br /><br /> 
+<b> Software Developer </b> <br /><br /> 
   <i> Currently dedicated to: </i> <br />
 📚 Studying <b> Software Engineering </b> at <a href="https://www.42malaga.com/"> 42 Málaga. </a> <br />
   Learning <b> Web Development </b> with <a href="https://www.samsung.com/es/tecnologiaconproposito/samsung-desarrolladoras/"> Samsung Desarrolladoras. </a> <br />
