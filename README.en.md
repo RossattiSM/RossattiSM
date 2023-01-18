@@ -1,9 +1,8 @@
 <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.md"> <img src="https://img.shields.io/badge/lang-es-blue" alt="spanish language badge"></a> <a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.en.md"> <img src="https://img.shields.io/badge/lang-en-blue" alt="english language badge">  </a> <br />
 <hr>
+<h1 align="center"> Software Developer </h1> 
 
 <p align="center"><img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" length="150px" height="150px"></p>
-
-<h1 align="center"> Software Developer </h1> 
 
 <p align="center">
   <i> Currently dedicated to: </i> <br />
