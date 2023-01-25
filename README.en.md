@@ -16,7 +16,7 @@
 
 <p align="center">
   <i> Currently dedicated to: </i> <br />
-📚 Studying <b> Software Engineering </b> at <a href="https://www.42malaga.com/"> 42 Málaga. </a> <br />
+📚 Studying <b> Computer Programming </b> at <a href="https://www.42malaga.com/"> 42 Málaga. </a> <br />
   Learning <b> Web Development </b> with <a href="https://www.samsung.com/es/tecnologiaconproposito/samsung-desarrolladoras/"> Samsung Desarrolladoras. </a> <br />
 🤓 Practising <code>Git</code> | <code>Shell</code> | <code>C</code> | <code>HTML</code> | <code>CSS</code> | <code>JavaScript</code> | <code>Web Development</code>. 
 </p>
