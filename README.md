@@ -15,7 +15,7 @@
 
 <hr>
 
-<h1 align="center"> Programadora informática </h1>
+<h1 align="center"> Programadora </h1>
 <p align="center"><img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" length="150px" height="150px"></p>
 <p align="center">
   <i> Actualmente me dedico a: </i> <br />
