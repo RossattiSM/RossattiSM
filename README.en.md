@@ -10,7 +10,7 @@
 
 <hr>
 
-<h1 align="center"> Software Developer </h1> 
+<h1 align="center"> Developer </h1> 
 
 <p align="center"><img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" length="150px" height="150px"></p>
 
