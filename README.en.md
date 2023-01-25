@@ -22,15 +22,7 @@
 </p>
 
 <p align="center"> <b> WITH KNOWLEDGE OF </b> <br />
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git logo" /></a>
-<a href="https://www.w3schools.com/c/"><img src="https://skillicons.dev/icons?i=c" alt="C logo" /></a>
-<a href="https://www.w3schools.com/html/default.asp"><img src="https://skillicons.dev/icons?i=html" alt="HTML logo" /></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" /></a>
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode logo" /></a>
-<a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" alt="Vim logo" /></a>
-<a href="https://www.adobe.com/es/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" alt="Photshop logo" /></a>
-<a href="https://www.adobe.com/es/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" alt="Illustrator logo" /></a>
-<a href="https://www.vegascreativesoftware.com/es/"><img src="https://i.pinimg.com/originals/e2/f1/4f/e2f14fd81ae695ebae159a8b0ef53fcd.png" alt="Sony Vegas logo" length="46px" width="46px" /></a>
+<img src="https://skillicons.dev/icons?i=git,c,vim,html,css,js,github,vim,ps,ai" />
 </p>
 
 <hr>
