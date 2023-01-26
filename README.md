@@ -19,8 +19,9 @@
 </p>
 
 <hr>
-<a href="https://www.linkedin.com/in/rossattism/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png?raw=true" alt="Linkedin Logo" style="width: 25px; height: 25px" /></a>
-<a href="https://github.com/RossattiSM"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png?raw=true" alt="GitHub logo" style="width: 25px; height: 25px" /></a> 
-<a href="https://open.spotify.com/user/21bih47uzlxunyyi4gbbvyvty"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Spotify_black.png?raw=true" alt="Spotify logo" style="width: 25px; height: 25px" /></a> 
-<a href="mailto:smrossatti@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png?raw=true" alt="GMAIL logo" style="width: 25px; height: 25px" /></a> 
+<a href="https://www.linkedin.com/in/rossattism/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png?raw=true" alt="Linkedin Logo" style="width: 18px; height: 18px" /></a> &nbsp; &nbsp; 
+<a href="https://github.com/RossattiSM"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png?raw=true" alt="GitHub logo" style="width: 18px; height: 18px" /></a> &nbsp; &nbsp; 
+<a href="https://open.spotify.com/user/21bih47uzlxunyyi4gbbvyvty"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Spotify_black.png?raw=true" alt="Spotify logo" style="width: 18px; height: 18px" /></a> &nbsp; &nbsp; 
+<a href="mailto:smrossatti@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png?raw=true" alt="GMAIL logo" style="width: 18px; height: 18px" /></a> &nbsp; &nbsp; 
+
 
