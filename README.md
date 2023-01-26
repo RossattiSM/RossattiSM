@@ -1,33 +1,26 @@
-<a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.md"> <img src="https://img.shields.io/badge/lang-es-blue" alt="spanish language badge"></a> 
-<a href="https://github.com/RossattiSM/RossattiSM/blob/main/README.en.md"> <img src="https://img.shields.io/badge/lang-en-blue" alt="english language badge"></a>
-
+<img src="https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" />
 <details>
-  
-  <summary>Repositorios</summary>
-
-<a href="https://github.com/RossattiSM/profile-readme-tutorial"> <code>profile-readme-tutorial</code> </a>: Tutorial básico para editar perfiles en Github. <br>
-<a href="https://github.com/RossattiSM/42Cursus.Libft"> <code>Libft</code> </a>: Primer proyecto de 42: librería en C. <i> (en desarrollo) </i><br>
-<a href="https://github.com/RossattiSM/42Piscine"> <code>42Piscine</code> </a>: Proyectos realizados en el C Piscine Bootcamp de 42 Málaga. <br>
-<a href="https://github.com/RossattiSM/Samsung-Desarrolladoras"> <code>Samsung-Desarrolladoras</code> </a>: Proyectos y ejercicios realizados en Samsung Desarrolladoras. <i> (en desarrollo)  </i><br>
-
-  
+  <summary>Repositories</summary>
+<a href="https://github.com/RossattiSM/42Piscine"> <code>42 Piscine</code> </a>: Projects made in the C Piscine Bootcamp of 42 Málaga.. <br />
+<a href="https://github.com/RossattiSM/profile-readme-tutorial"> <code>Readme Tutorial</code> </a>: Basic tutorial for editing profiles on Github.  <br />
+<a href="https://github.com/RossattiSM/Samsung-Desarrolladoras"> <code>Samsung-Desarrolladoras</code> </a>: Projects and exercises developed in Samsung Desarrolladoras. <i> (in development)  </i> <br />
+<a href="https://github.com/RossattiSM/42Cursus.Libft"> <code>Libft</code> </a>: My first library in C.  <i> (in development) </i> <br />
 </details>
 
 <hr>
+ <i> <b>Currently dedicated to: </b></i><br />
+📚 Studying <i> Computer Programming </i> at <a href="https://www.42malaga.com/"> 42 Málaga. </a> <br />
+💻 Learning <i> Web Development </i> with <a href="https://www.samsung.com/es/tecnologiaconproposito/samsung-desarrolladoras/"> Samsung Desarrolladoras. </a> <br />
+🤓 Practising <code>Git</code> | <code>Shell</code> | <code>C</code> | <code>HTML</code> | <code>CSS</code> | <code>JavaScript</code>
 
-<h1 align="center"> Programadora </h1>
-<p align="center"><img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" length="150px" height="150px"></p>
-<p align="center">
-  <i> Actualmente me dedico a: </i> <br />
-📚 Estudiar  <b> programación </b> en <a href="https://www.42malaga.com/"> 42 Málaga. </a> <br />
-📖 Aprender <b> desarrollo web </b> con <a href="https://www.samsung.com/es/tecnologiaconproposito/samsung-desarrolladoras/"> Samsung Desarrolladoras. </a> <br />
-🤓 Practicar <code>Git</code> | <code>Shell</code> | <code>C</code> | <code>HTML</code> | <code>CSS</code> | <code>JavaScript</code> <br />
-</p>
-
-<p align="center"> <b> CUENTO CON CONOCIMIENTOS EN </b> <br />
+<hr>
+<p><b> Languages and tools: </b></p>
 <img src="https://skillicons.dev/icons?i=git,c,vim,html,css,js,github,vim,ps,ai" />
 </p>
 
 <hr>
-<a href="https://www.linkedin.com/in/rossattism/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Logo" style="width: 16px; height: 16px" /></a> &nbsp | &nbsp
-<a href="https://github.com/RossattiSM"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" style="width: 16px; height: 16px" /></a>  &nbsp | &nbsp <code>✨ Gracias por tu visita!</code> &nbsp 
+<a href="https://www.linkedin.com/in/rossattism/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png?raw=true" alt="Linkedin Logo" style="width: 25px; height: 25px" /></a>
+<a href="https://github.com/RossattiSM"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png?raw=true" alt="GitHub logo" style="width: 25px; height: 25px" /></a> 
+<a href="https://open.spotify.com/user/21bih47uzlxunyyi4gbbvyvty"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Spotify_black.png?raw=true" alt="Spotify logo" style="width: 25px; height: 25px" /></a> 
+<a href="mailto:smrossatti@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png?raw=true" alt="GMAIL logo" style="width: 25px; height: 25px" /></a> 
+
