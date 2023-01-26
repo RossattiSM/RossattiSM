@@ -6,7 +6,7 @@
 
 <hr>
 <p> <b>About: </b></p>
-Hi! I'm Silvina, a Software Developer. I'm currently studying <i> Computer Programming </i> at <a href="https://www.42malaga.com/"> 42 Málaga</a>, learning <i> Web Development </i> with <a href="https://www.samsung.com/es/tecnologiaconproposito/samsung-desarrolladoras/"> Samsung Desarrolladoras</a> and practicing <code>Git</code>, <code>Shell</code>, <code>C</code>, <code>HTML</code>, <code>CSS</code> and <code>JavaScript</code>.
+Hi! I'm a Software Developer currently studying <i> Computer Programming </i> at <a href="https://www.42malaga.com/"> 42 Malaga</a>, learning <i> Web Development </i> with <a href="https://www.samsung.com/es/tecnologiaconproposito/samsung-desarrolladoras/"> Samsung Desarrolladoras</a> and practicing <code>Git</code>, <code>Shell</code>, <code>C</code>, <code>HTML</code>, <code>CSS</code> and <code>JavaScript</code>.
 
 <hr>
 <p><b> Languages and tools: </b></p>
