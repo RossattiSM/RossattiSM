@@ -1,17 +1,12 @@
 <img src="https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" />
-<details>
-  <summary>Repositories</summary>
-<a href="https://github.com/RossattiSM/42Piscine"> <code>42 Piscine</code> </a>: Projects made in the C Piscine Bootcamp of 42 Málaga.. <br />
-<a href="https://github.com/RossattiSM/profile-readme-tutorial"> <code>Readme Tutorial</code> </a>: Basic tutorial for editing profiles on Github.  <br />
-<a href="https://github.com/RossattiSM/Samsung-Desarrolladoras"> <code>Samsung-Desarrolladoras</code> </a>: Projects and exercises developed in Samsung Desarrolladoras. <i> (in development)  </i> <br />
-<a href="https://github.com/RossattiSM/42Cursus.Libft"> <code>Libft</code> </a>: My first library in C.  <i> (in development) </i> <br />
-</details>
+<a href="https://github.com/RossattiSM/profile-readme-tutorial"> <code>Readme Tutorial</code></a> |
+<a href="https://github.com/RossattiSM/Samsung-Desarrolladoras"> <code>Samsung-Desarrolladoras</code></a> |
+<a href="https://github.com/RossattiSM/42Cursus.Libft"> <code>Libft</code></a> |  
+<a href="https://github.com/RossattiSM/42Piscine"> <code>42 Piscine</code></a>
 
 <hr>
- <i> <b>Currently dedicated to: </b></i><br />
-📚 Studying <i> Computer Programming </i> at <a href="https://www.42malaga.com/"> 42 Málaga. </a> <br />
-💻 Learning <i> Web Development </i> with <a href="https://www.samsung.com/es/tecnologiaconproposito/samsung-desarrolladoras/"> Samsung Desarrolladoras. </a> <br />
-🤓 Practising <code>Git</code> | <code>Shell</code> | <code>C</code> | <code>HTML</code> | <code>CSS</code> | <code>JavaScript</code>
+ <b>About: </b><br />
+Hi! I'm Silvina, a Software Developer. I'm currently studying <i> Computer Programming </i> at <a href="https://www.42malaga.com/"> 42 Málaga</a>, learning <i> Web Development </i> with <a href="https://www.samsung.com/es/tecnologiaconproposito/samsung-desarrolladoras/"> Samsung Desarrolladoras</a> and practicing <code>Git</code>, <code>Shell</code>, <code>C</code>, <code>HTML</code>, <code>CSS</code> and <code>JavaScript</code>.
 
 <hr>
 <p><b> Languages and tools: </b></p>
