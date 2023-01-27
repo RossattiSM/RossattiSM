@@ -5,7 +5,7 @@
 <a href="https://github.com/RossattiSM/42Piscine"> <code>42 Piscine</code></a>
 
 <hr>
-<p> <b>About: </b></p>
+<b>About: </b><br />
 Hi! I'm a Software Developer currently studying <i> Computer Programming </i> at <a href="https://www.42malaga.com/"> 42 Malaga</a>, learning <i> Web Development </i> with <a href="https://www.samsung.com/es/tecnologiaconproposito/samsung-desarrolladoras/"> Samsung Desarrolladoras</a> and practicing <code>Git</code>, <code>Shell</code>, <code>C</code>, <code>HTML</code>, <code>CSS</code> and <code>JavaScript</code>.
 
 <hr>
