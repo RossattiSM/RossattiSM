@@ -1,7 +1,6 @@
 <img src="https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" />
 <a href="https://github.com/RossattiSM/profile-readme-tutorial"> <code>Readme Tutorial</code></a> |
 <a href="https://github.com/RossattiSM/Samsung-Desarrolladoras"> <code>Samsung-Desarrolladoras</code></a> |
-<a href="https://github.com/RossattiSM/42Cursus.Libft"> <code>Libft</code></a> |  
 <a href="https://github.com/RossattiSM/42Piscine"> <code>42 Piscine</code></a>
 
 <hr>
