@@ -9,8 +9,8 @@ Hi! I'm a Software Developer studying at <a href="https://www.42malaga.com/"> 42
 
 <hr>
 <p><b> Languages and tools: </b></p>
-<img src="https://skillicons.dev/icons?i=git,c,vim,html,css,js,github,vim,ps,ai" />
-</p>
+
+<img src="https://user-images.githubusercontent.com/27078533/79024258-b1f7e680-7b82-11ea-8775-11eb1ee0871c.png" width="45px" height="45px" />&nbsp;&nbsp;<img src="https://seeklogo.com/images/U/uipath-logo-E168798B64-seeklogo.com.png" width="45px" height="45px" />&nbsp; <img src="https://skillicons.dev/icons?i=c,vim,html,css,js,git,github,vim,ps,ai,md,dotnet" />
 
 <hr>
 <a href="https://www.linkedin.com/in/rossattism/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png?raw=true" alt="Linkedin Logo" style="width: 18px; height: 18px" /></a> &nbsp; &nbsp; 
