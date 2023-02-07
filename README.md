@@ -1,7 +1,7 @@
 <img src="https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" />
-<a href="https://github.com/RossattiSM/profile-readme-tutorial"> <code>Readme Tutorial</code></a> |
-<a href="https://github.com/RossattiSM/Samsung-Desarrolladoras"> <code>Samsung-Desarrolladoras</code></a> |
-<a href="https://github.com/RossattiSM/42Piscine"> <code>42 Piscine</code></a>
+➡<a href="https://github.com/RossattiSM/42.Projects"> <code>42</code></a> |
+<a href="https://github.com/stars/RossattiSM/lists/tutorials"> <code>TUTORIALS</code></a> |
+<a href="https://github.com/stars/RossattiSM/lists/courses"> <code>COURSES</code></a> 
 
 <hr>
 <b>About: </b><br />
@@ -10,7 +10,11 @@ Hi! I'm a Software Developer studying at <a href="https://www.42malaga.com/"> 42
 <hr>
 <p><b> Languages and tools: </b></p>
 
-<img src="https://user-images.githubusercontent.com/27078533/79024258-b1f7e680-7b82-11ea-8775-11eb1ee0871c.png" width="45px" height="45px" />&nbsp;&nbsp;<img src="https://seeklogo.com/images/U/uipath-logo-E168798B64-seeklogo.com.png" width="45px" height="45px" />&nbsp; <img src="https://skillicons.dev/icons?i=c,vim,html,css,js,git,github,vim,ps,ai,md,dotnet" />
+<img src="https://skillicons.dev/icons?i=c,vim,html,css,js,git,github,vim,ps,ai,md,dotnet" />
+
+<p><b> RPA: </b></p>
+
+<img src="https://user-images.githubusercontent.com/27078533/79024258-b1f7e680-7b82-11ea-8775-11eb1ee0871c.png" width="45px" height="45px" />&nbsp;&nbsp;<img src="https://seeklogo.com/images/U/uipath-logo-E168798B64-seeklogo.com.png" width="45px" height="45px" />&nbsp; &nbsp;<img src="https://static.wixstatic.com/media/9d1732_846004f677e142369287e7a813cd1a18~mv2.png/v1/fill/w_248,h_240,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20power%20automate.png" width="45px" height="45px" />
 
 <hr>
 <a href="https://www.linkedin.com/in/rossattism/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png?raw=true" alt="Linkedin Logo" style="width: 18px; height: 18px" /></a> &nbsp; &nbsp; 
