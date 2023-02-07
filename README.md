@@ -1,5 +1,5 @@
 <img src="https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" />
-➡<a href="https://github.com/RossattiSM/42.Projects"> <code>42</code></a> |
+➡<a href="https://github.com/RossattiSM/42.Projects"><code>42</code></a> |
 <a href="https://github.com/stars/RossattiSM/lists/tutorials"> <code>TUTORIALS</code></a> |
 <a href="https://github.com/stars/RossattiSM/lists/courses"> <code>COURSES</code></a> 
 
