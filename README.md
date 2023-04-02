@@ -1,6 +1,6 @@
-➡<a href="https://github.com/RossattiSM/42.Projects"><code>42</code></a> |
-<a href="https://github.com/stars/RossattiSM/lists/tutorials"> <code>TUTORIALS</code></a> |
-<a href="https://github.com/stars/RossattiSM/lists/courses"> <code>COURSES</code></a> 
+➡<a href="https://github.com/rossattism/42.Projects"><code>42</code></a> |
+<a href="https://github.com/stars/rossattism/lists/tutorials"> <code>TUTORIALS</code></a> |
+<a href="https://github.com/stars/rossattism/lists/courses"> <code>COURSES</code></a> 
 
 <hr>
 <b>About: </b><br />
@@ -17,7 +17,7 @@ Hi! I'm a Software Developer studying at <a href="https://www.42malaga.com/"> 42
 
 <hr>
 <a href="https://www.linkedin.com/in/rossattism/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png?raw=true" alt="Linkedin Logo" style="width: 18px; height: 18px" /></a> &nbsp; &nbsp; 
-<a href="https://github.com/RossattiSM"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png?raw=true" alt="GitHub logo" style="width: 18px; height: 18px" /></a> &nbsp; &nbsp; 
+<a href="https://github.com/rossattism"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png?raw=true" alt="GitHub logo" style="width: 18px; height: 18px" /></a> &nbsp; &nbsp; 
 <a href="https://open.spotify.com/user/21bih47uzlxunyyi4gbbvyvty"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Spotify_black.png?raw=true" alt="Spotify logo" style="width: 18px; height: 18px" /></a> &nbsp; &nbsp; 
 <a href="mailto:rossattism@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png?raw=true" alt="GMAIL logo" style="width: 18px; height: 18px" /></a> &nbsp; &nbsp; 
 
