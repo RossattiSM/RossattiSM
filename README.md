@@ -7,7 +7,7 @@
 Hi! I'm a Software Developer studying at <a href="https://www.42malaga.com/"> 42 Malaga</a> and learning <i> Web Development </i> with <a href="https://www.samsung.com/es/tecnologiaconproposito/samsung-desarrolladoras/"> Samsung Desarrolladoras</a> and <i> RPA Development </i> with <a href="https://spain.generation.org/"> Generation Spain </a>. The programming languages I'm currently practising are <code>Git</code>, <code>Shell</code>, <code>C</code>, <code>HTML</code>, <code>CSS</code> and <code>JavaScript</code>, and the RPA tools are <code>UiPath</code>, <code>Blue Prism</code> and <code>Power Automation</code>
 
 <hr>
-<p><b> Languages and tools: </b></p>
+<p><b> Languages and tools I'm learning: </b></p>
 
 <img src="https://skillicons.dev/icons?i=c,vim,html,css,js,git,github,vim,ps,ai,md,dotnet" />
 
