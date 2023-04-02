@@ -9,7 +9,7 @@ Hi! I'm a Software Developer studying at <a href="https://www.42malaga.com/"> 42
 <hr>
 <p><b> Lifelong learning: </b></p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,ps,ai,dotnet,c" />
+<img src="https://skillicons.dev/icons?i=php,html,css,js,git,ps,ai,dotnet,c" />
 
 <p><b> RPA: </b></p>
 
